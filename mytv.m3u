@@ -1,186 +1,68 @@
 #EXTM3U
 
-# 分类: 中央频道 (116个频道)
+# 分类: 中央频道 (57个频道)
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://play.kankanlive.com/live/1661761962676984.m3u8
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://183.11.239.36:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1",CCTV1
-http://120.76.248.139/live/bfgd/4200000484.m3u8
+http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://183.11.239.36:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://120.76.248.139/live/bfgd/4200000061.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-http://112.46.85.60:8009/hls/502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
-https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://gmxw.7766.org:808/hls/91/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://183.11.239.36:808/hls/91/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://120.76.248.139/live/bfgd/4200000062.m3u8
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-http://112.46.85.60:8009/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://183.11.239.36:808/hls/22/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://183.11.239.36:808/hls/77/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4",CCTV4
-http://183.11.239.36:808/hls/67/index.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://gmxw.7766.org:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://183.11.239.36:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://120.76.248.139/live/bfgd/4200000064.m3u8
-#EXTINF:-1 tvg-name="CCTV5",CCTV5
-http://112.46.85.60:8009/hls/503/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://183.11.239.36:808/hls/94/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://120.76.248.139/live/bfgd/4200000065.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-http://182.150.23.74:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
+http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://8.138.7.223/tv/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://183.11.239.36:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7",CCTV7
-http://120.76.248.139/live/bfgd/4200000127.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://iptv77.iptv66.eu.org:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://gmxw.7766.org:808/hls/96/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://183.11.239.36:808/hls/96/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8",CCTV8
-http://120.76.248.139/live/bfgd/4200000066.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://183.11.239.36:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://120.76.248.139/live/bfgd/4200000128.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-http://112.46.85.60:8009/hls/509/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://183.11.239.36:808/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://120.76.248.139/live/bfgd/4200000129.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-http://182.150.23.74:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://183.11.239.36:808/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-#EXTINF:-1 tvg-name="CCTV11",CCTV11
-http://182.150.23.74:808/hls/11/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
 http://23.237.228.134/live3/CCTV12.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://183.11.239.36:808/hls/30/index.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://120.76.248.139/live/bfgd/4200000131.m3u8
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
-http://112.46.85.60:8009/hls/507/index.m3u8
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
+https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://8.138.7.223/【公众号：榴芒电视】/cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://183.11.239.36:808/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-http://120.76.248.139/live/bfgd/4200000067.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://120.76.248.139/live/bfgd/4200000132.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-#EXTINF:-1 tvg-name="CCTV14",CCTV14
-http://182.150.23.74:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://gmxw.7766.org:808/hls/102/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-http://183.11.239.36:808/hls/102/index.m3u8
+https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
-https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://gmxw.7766.org:808/hls/169/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-http://183.11.239.36:808/hls/169/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://183.11.239.36:808/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV17",CCTV17
 http://120.76.248.139/live/bfgd/4200000204.m3u8
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-#EXTINF:-1 tvg-name="CCTV17",CCTV17
-http://123.130.84.106:8154/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理",CCTV世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV央视台球",CCTV央视台球
@@ -234,59 +116,37 @@ https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 tvg-name="中央电视塔南",中央电视塔南
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 
-# 分类: 广东频道 (29个频道)
+# 分类: 广东频道 (18个频道)
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://183.11.239.36:808/hls/80/index.m3u8
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://120.76.248.139/live/bfgd/4200000092.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260209040208b7fdef1503cd41b3a15efc83c4616146&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260209040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260209040208&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a52d374097b5f15c689423533a043ba9
 #EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://123.130.84.106:8154/tsfile/live/0125_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视",广东卫视
-http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="广东影视",广东影视
 http://119.32.12.17:2901/udp/224.1.100.11:11111
-#EXTINF:-1 tvg-name="广东少儿",广东少儿
-http://gmxw.7766.org:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿",广东少儿
 http://119.32.12.17:2901/udp/224.1.100.9:11111
 #EXTINF:-1 tvg-name="ljgdy",ljgdy
 https://goodiptv.club/douyu/1600769
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://gmxw.7766.org:808/hls/83/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江",广东珠江
-http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江",广东珠江
 http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
-http://183.11.239.36:808/hls/132/index.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视",大湾区卫视
-http://gmxw.7766.org:808/hls/132/index.m3u8
-#EXTINF:-1 tvg-name="广东体育",广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育",广东体育
 https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 tvg-name="广东体育",广东体育
-http://183.11.239.36:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="广东体育",广东体育
-http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东新闻",广东新闻
 http://119.32.12.17:2901/udp/224.1.100.5:11111
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广东民生",广东民生
 http://119.32.12.17:2901/udp/224.1.100.4:11111
-#EXTINF:-1 tvg-name="广东经济科教",广东经济科教
-http://119.32.12.17:2901/udp/224.1.100.6:11111
 #EXTINF:-1 tvg-name="广州新闻",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="广州竞赛",广州竞赛
@@ -298,331 +158,129 @@ http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab47
 #EXTINF:-1 tvg-name="福建漳州醉美沙滩翡翠湾",福建漳州醉美沙滩翡翠湾
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 
-# 分类: 卫视频道 (171个频道)
+# 分类: 卫视频道 (70个频道)
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://183.11.239.36:808/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://120.76.248.139/live/bfgd/4200000096.m3u8
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://182.150.23.74:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://183.11.239.36:808/hls/41/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
-http://120.76.248.139/live/bfgd/4200000083.m3u8
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://183.11.239.36:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://120.76.248.139/live/bfgd/4200000124.m3u8
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
-http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://183.11.239.36:808/hls/114/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视",东方卫视
-http://120.76.248.139/live/bfgd/4200000093.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://58.57.40.22:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
 http://120.76.248.139/live/bfgd/4200000483.m3u8
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 tvg-name="东南卫视",东南卫视
-http://123.129.70.178:9901/tsfile/live/0137_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://111.61.236.247:9081/hls/54/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://cssbyd.imwork.net:8082/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://183.11.239.36:808/hls/119/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
-http://120.76.248.139/live/bfgd/4200000119.m3u8
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西卫视",广西卫视
 http://111.56.90.5/000000000000/1000000002000019837/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视",广西卫视
 http://107.150.60.122/live/gxwshd.m3u8
 #EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
-http://cssbyd.imwork.net:8082/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
 http://111.56.90.5/000000000000/1000000002000003169/1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://cssbyd.imwork.net:8082/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://120.76.248.139/live/bfgd/4200000101.m3u8
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
-http://182.150.23.74:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
 http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://183.11.239.36:808/hls/124/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视",海南卫视
-http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="海峡卫视",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
-#EXTINF:-1 tvg-name="海峡卫视",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-#EXTINF:-1 tvg-name="海峡卫视",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://111.61.236.247:9081/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视",河北卫视
-http://183.11.239.36:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视",河北卫视
 http://120.76.248.139/live/bfgd/4200000108.m3u8
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://cssbyd.imwork.net:8082/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://183.11.239.36:808/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://120.76.248.139/live/bfgd/4200000339.m3u8
-#EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://182.150.23.74:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 http://107.150.60.122/live/hbwshd.m3u8
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://182.150.23.74:808/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
-http://123.130.84.106:8154/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
 http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://183.11.239.36:808/hls/36/index.m3u8
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
-http://120.76.248.139/live/bfgd/4200000086.m3u8
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://58.57.40.22:9901/tsfile/live/1050_1.m3u8
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://111.61.236.247:9081/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://cssbyd.imwork.net:8082/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://183.11.239.36:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
-http://120.76.248.139/live/bfgd/4200000097.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://58.57.40.22:9901/tsfile/live/1031_1.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://183.11.239.36:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://120.76.248.139/live/bfgd/4200000085.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://112.46.85.60:8009/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
-http://182.150.23.74:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://120.76.248.139/live/bfgd/4200000098.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://182.150.23.74:808/hls/30/index.m3u8
+http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://58.57.40.22:9901/tsfile/live/1035_1.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000141.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000185.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://120.76.248.139/live/bfgd/4200000058.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
-http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://111.61.236.247:9081/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://cssbyd.imwork.net:8082/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="农林卫视",农林卫视
 http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 tvg-name="农林卫视",农林卫视
-http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 http://120.76.248.139/live/bfgd/4200000111.m3u8
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://123.130.84.106:8154/tsfile/live/0140_1.m3u8
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
-http://111.61.236.247:9081/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="厦门卫视",厦门卫视
-http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
 http://120.76.248.139/live/bfgd/4200000099.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://182.150.23.74:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://123.130.84.106:8154/tsfile/live/0131_1.m3u8
-#EXTINF:-1 tvg-name="山东卫视",山东卫视
-http://111.61.236.247:9081/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="山西卫视",山西卫视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
 http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
+#EXTINF:-1 tvg-name="山西卫视",山西卫视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://107.150.60.122/live/snwshd.m3u8
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://183.11.239.36:808/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://120.76.248.139/live/bfgd/4200000100.m3u8
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
-http://182.150.23.74:808/hls/20/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://183.11.239.36:808/hls/50/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://120.76.248.139/live/bfgd/4200000103.m3u8
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
-http://182.150.23.74:808/hls/38/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://183.11.239.36:808/hls/42/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://112.46.85.60:8009/hls/44/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://182.150.23.74:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视",天津卫视
-http://123.130.84.106:8154/tsfile/live/0135_1.m3u8
+http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://cssbyd.imwork.net:8082/hls/46/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://183.11.239.36:808/hls/64/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-http://120.76.248.139/live/bfgd/4200000121.m3u8
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://58.57.40.22:9901/tsfile/live/1055_1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://111.56.90.5/000000000000/1000000002000029441/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://120.76.248.139/live/bfgd/4200000150.m3u8
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-http://123.130.84.106:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 #EXTINF:-1 tvg-name="延边卫视",延边卫视
 http://120.76.248.139/live/bfgd/4200000117.m3u8
-#EXTINF:-1 tvg-name="延边卫视",延边卫视
-http://gmxw.7766.org:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://111.61.236.247:9081/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://cssbyd.imwork.net:8082/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
-http://183.11.239.36:808/hls/52/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://cssbyd.imwork.net:8082/hls/22/index.m3u8
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
-http://183.11.239.36:808/hls/37/index.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 http://107.150.60.122/live/cqwshd.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://183.11.239.36:808/hls/53/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://120.76.248.139/live/bfgd/4200000107.m3u8
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://123.130.84.106:8154/tsfile/live/0142_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 http://120.76.248.139/live/bfgd/4200000095.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://123.130.84.106:8154/tsfile/live/0143_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
-http://123.129.70.178:9901/tsfile/live/0143_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 http://120.76.248.139/live/bfgd/4200000110.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://111.61.236.247:9081/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://183.11.239.36:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
-http://182.150.23.74:808/hls/37/index.m3u8
+http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="四川卫视4K",四川卫视4K
@@ -676,27 +334,9 @@ https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a
 #EXTINF:-1 tvg-name="绘说篮球C",绘说篮球C
 https://goodiptv.club/douyu/9401305
 
-# 分类: 少儿动漫 (32个频道)
-#EXTINF:-1 tvg-name="优漫卡通",优漫卡通
-http://119.32.12.17:2901/udp/224.1.100.119:11111
-#EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
-http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
-http://119.32.12.17:2901/udp/224.1.100.113:11111
+# 分类: 少儿动漫 (23个频道)
 #EXTINF:-1 tvg-name="浙江少儿",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="动画大师姐",动画大师姐
-https://goodiptv.club/douyu/9742136
 #EXTINF:-1 tvg-name="动画魂",动画魂
 https://goodiptv.club/douyu/9393242
 #EXTINF:-1 tvg-name="南京少儿",南京少儿
@@ -742,8 +382,8 @@ https://goodiptv.club/douyu/9391292
 #EXTINF:-1 tvg-name="蛋黄讲动漫",蛋黄讲动漫
 https://goodiptv.club/douyu/9542834
 
-# 分类: 其他 (1678个频道)
-#EXTINF:-1 tvg-name="2026-04-04 06:26:01",2026-04-04 06:26:01
+# 分类: 其他 (1585个频道)
+#EXTINF:-1 tvg-name="2026-04-04 12:18:27",2026-04-04 12:18:27
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 #EXTINF:-1 tvg-name="www.izbds.com",www.izbds.com
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
@@ -767,10 +407,6 @@ https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="苏州4K",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
-http://119.32.12.17:2901/udp/224.1.100.131:11111
-#EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
-http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="无线星河",无线星河
@@ -805,8 +441,6 @@ https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途之港囧",人在囧途之港囧
 https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 tvg-name="佛曰影视",佛曰影视
-https://goodiptv.club/douyu/9671758
 #EXTINF:-1 tvg-name="倩女幽魂人间道",倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 #EXTINF:-1 tvg-name="倩女幽魂妖魔道",倩女幽魂妖魔道
@@ -855,8 +489,6 @@ https://goodiptv.club/douyu/9440966
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 #EXTINF:-1 tvg-name="寒战",寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 tvg-name="小儛电影嘚啵嘚",小儛电影嘚啵嘚
-https://goodiptv.club/douyu/8362978
 #EXTINF:-1 tvg-name="影视梗大叔",影视梗大叔
 https://goodiptv.club/douyu/9480648
 #EXTINF:-1 tvg-name="影视集装箱",影视集装箱
@@ -875,8 +507,6 @@ https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 http://www.goodiptv.club/douyu/5061550
 #EXTINF:-1 tvg-name="无际电影",无际电影
 https://goodiptv.club/douyu/9720498
-#EXTINF:-1 tvg-name="有部电影儿",有部电影儿
-https://goodiptv.club/douyu/9736479
 #EXTINF:-1 tvg-name="林九影视",林九影视
 https://goodiptv.club/douyu/7212528
 #EXTINF:-1 tvg-name="橙记港剧",橙记港剧
@@ -891,10 +521,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视",浙江教科影视
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视",浙江教科影视
-http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视",浙江教科影视
-http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 #EXTINF:-1 tvg-name="涛浪浪电影",涛浪浪电影
 https://goodiptv.club/douyu/5424258
 #EXTINF:-1 tvg-name="淘剧场",淘剧场
@@ -921,44 +547,20 @@ https://goodiptv.club/douyu/9339251
 https://goodiptv.club/douyu/9323164
 #EXTINF:-1 tvg-name="电影先锋V",电影先锋V
 https://goodiptv.club/douyu/8711212
-#EXTINF:-1 tvg-name="电影八点档",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
 #EXTINF:-1 tvg-name="电影冷知识",电影冷知识
 https://goodiptv.club/douyu/9660835
-#EXTINF:-1 tvg-name="电影刘德华",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-name="电影刘油果",电影刘油果
 https://goodiptv.club/douyu/3985805
-#EXTINF:-1 tvg-name="电影功夫片",电影功夫片
-http://live.metshop.top/huya/11352941?cdn=alicdn
 #EXTINF:-1 tvg-name="电影吐槽汇",电影吐槽汇
 https://goodiptv.club/douyu/9447668
 #EXTINF:-1 tvg-name="电影小班长",电影小班长
 https://goodiptv.club/douyu/549693
-#EXTINF:-1 tvg-name="电影幕后喵",电影幕后喵
-https://goodiptv.club/douyu/8884074
-#EXTINF:-1 tvg-name="电影搞笑喜剧",电影搞笑喜剧
-http://live.metshop.top/huya/11342423?cdn=alicdn
-#EXTINF:-1 tvg-name="电影梁家辉",电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-name="电影漩涡",电影漩涡
 https://goodiptv.club/douyu/8706350
 #EXTINF:-1 tvg-name="电影笔记",电影笔记
 https://goodiptv.club/douyu/9636034
-#EXTINF:-1 tvg-name="电影蜘蛛侠",电影蜘蛛侠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-#EXTINF:-1 tvg-name="电影谍战",电影谍战
-http://live.metshop.top/huya/21059585?cdn=alicdn
-#EXTINF:-1 tvg-name="电影贺岁",电影贺岁
-http://live.metshop.top/huya/11601971?cdn=alicdn
-#EXTINF:-1 tvg-name="电影迷小雅",电影迷小雅
-https://goodiptv.club/douyu/9639225
-#EXTINF:-1 tvg-name="电影高分动作",电影高分动作
-http://live.metshop.top/huya/11352884?cdn=alicdn
 #EXTINF:-1 tvg-name="电影黑匣子",电影黑匣子
 https://goodiptv.club/douyu/8706652
-#EXTINF:-1 tvg-name="粤语电影丶",粤语电影丶
-https://goodiptv.club/douyu/1226741
 #EXTINF:-1 tvg-name="经典剧集",经典剧集
 http://www.goodiptv.club/douyu/6863367
 #EXTINF:-1 tvg-name="经典电影",经典电影
@@ -967,8 +569,6 @@ https://yylunbo.ottiptv.cc/yy/1414812324
 https://goodiptv.club/douyu/8706393
 #EXTINF:-1 tvg-name="美亚电影",美亚电影
 https://live.tvfix.org/live/mydy/index.m3u8
-#EXTINF:-1 tvg-name="美亚电影",美亚电影
-http://zjrtv.vip/live/?tbs=mydy
 #EXTINF:-1 tvg-name="老王的夜电影院",老王的夜电影院
 https://goodiptv.club/douyu/3498219
 #EXTINF:-1 tvg-name="老电影故事",老电影故事
@@ -1028,9 +628,9 @@ https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="海绵宝宝",海绵宝宝
 https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-name="猫和老鼠",猫和老鼠
-https://live.metshop.top/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠",猫和老鼠
 https://live.iill.top/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠",猫和老鼠
+https://live.metshop.top/huya/11352879
 #EXTINF:-1 tvg-name="0小行家0",0小行家0
 https://goodiptv.club/douyu/9280356
 #EXTINF:-1 tvg-name="11No巴蒂11",11No巴蒂11
@@ -1095,8 +695,6 @@ https://goodiptv.club/douyu/2282604
 https://goodiptv.club/douyu/4732337
 #EXTINF:-1 tvg-name="LCPD拉登",LCPD拉登
 https://goodiptv.club/douyu/9503015
-#EXTINF:-1 tvg-name="LOUIS樱",LOUIS樱
-https://goodiptv.club/douyu/9235284
 #EXTINF:-1 tvg-name="LR1245",LR1245
 https://goodiptv.club/douyu/12534632
 #EXTINF:-1 tvg-name="MJ小林大人嗷",MJ小林大人嗷
@@ -1111,8 +709,6 @@ https://goodiptv.club/douyu/9524579
 https://goodiptv.club/douyu/9525473
 #EXTINF:-1 tvg-name="OE档案",OE档案
 https://goodiptv.club/douyu/6725858
-#EXTINF:-1 tvg-name="OneGuy丶",OneGuy丶
-https://goodiptv.club/douyu/9734098
 #EXTINF:-1 tvg-name="Only丶邵氏",Only丶邵氏
 https://goodiptv.club/douyu/4246519
 #EXTINF:-1 tvg-name="OooOlivia奥莉蕉",OooOlivia奥莉蕉
@@ -1149,8 +745,6 @@ https://goodiptv.club/douyu/9392433
 https://goodiptv.club/douyu/9429545
 #EXTINF:-1 tvg-name="WANJINNY",WANJINNY
 https://goodiptv.club/douyu/9567755
-#EXTINF:-1 tvg-name="W总动员",W总动员
-https://goodiptv.club/douyu/9480767
 #EXTINF:-1 tvg-name="XCin888",XCin888
 https://goodiptv.club/douyu/3617935
 #EXTINF:-1 tvg-name="YIKa777",YIKa777
@@ -1161,8 +755,6 @@ https://goodiptv.club/douyu/1102973
 https://goodiptv.club/douyu/7552568
 #EXTINF:-1 tvg-name="baby丶贝贝",baby丶贝贝
 https://goodiptv.club/douyu/431460
-#EXTINF:-1 tvg-name="bbox达人",bbox达人
-https://goodiptv.club/douyu/428402
 #EXTINF:-1 tvg-name="dw151295068",dw151295068
 https://goodiptv.club/douyu/12655359
 #EXTINF:-1 tvg-name="dy荒野建造",dy荒野建造
@@ -1173,8 +765,6 @@ https://goodiptv.club/douyu/8759268
 https://goodiptv.club/douyu/9630581
 #EXTINF:-1 tvg-name="gslaini",gslaini
 https://goodiptv.club/douyu/6997954
-#EXTINF:-1 tvg-name="koanluowei",koanluowei
-https://goodiptv.club/douyu/10906963
 #EXTINF:-1 tvg-name="low君热剧",low君热剧
 https://goodiptv.club/douyu/8461020
 #EXTINF:-1 tvg-name="mad叶月Mashiro灬",mad叶月Mashiro灬
@@ -1197,16 +787,10 @@ https://goodiptv.club/douyu/2569874
 https://goodiptv.club/douyu/9653063
 #EXTINF:-1 tvg-name="一只魔玩",一只魔玩
 https://goodiptv.club/douyu/9606281
-#EXTINF:-1 tvg-name="一把钢刀镇斗虞",一把钢刀镇斗虞
-https://goodiptv.club/douyu/7356023
 #EXTINF:-1 tvg-name="一束光开始",一束光开始
 https://goodiptv.club/douyu/8662684
-#EXTINF:-1 tvg-name="一条正弦sin",一条正弦sin
-https://goodiptv.club/douyu/9497985
 #EXTINF:-1 tvg-name="一条闲木鱼",一条闲木鱼
 https://goodiptv.club/douyu/10102281
-#EXTINF:-1 tvg-name="一目十影",一目十影
-https://goodiptv.club/douyu/3643605
 #EXTINF:-1 tvg-name="一颗咕咕星",一颗咕咕星
 https://goodiptv.club/douyu/9388557
 #EXTINF:-1 tvg-name="一颗糖糖canddy",一颗糖糖canddy
@@ -1235,8 +819,6 @@ https://goodiptv.club/douyu/8862198
 https://goodiptv.club/douyu/9297412
 #EXTINF:-1 tvg-name="世界未解之谜M",世界未解之谜M
 https://goodiptv.club/douyu/9369468
-#EXTINF:-1 tvg-name="世界纪录大全",世界纪录大全
-https://goodiptv.club/douyu/9406359
 #EXTINF:-1 tvg-name="丛林工程师",丛林工程师
 https://goodiptv.club/douyu/9804149
 #EXTINF:-1 tvg-name="中二大帝妮可姬",中二大帝妮可姬
@@ -1295,10 +877,6 @@ https://goodiptv.club/douyu/10121755
 https://goodiptv.club/douyu/9687221
 #EXTINF:-1 tvg-name="傲娇一喵喵",傲娇一喵喵
 https://goodiptv.club/douyu/9392610
-#EXTINF:-1 tvg-name="傲娇的超级赛亚人",傲娇的超级赛亚人
-https://goodiptv.club/douyu/4373285
-#EXTINF:-1 tvg-name="兔兔MC维辰软桃团",兔兔MC维辰软桃团
-https://goodiptv.club/douyu/8266799
 #EXTINF:-1 tvg-name="八幡老师1",八幡老师1
 https://goodiptv.club/douyu/9272043
 #EXTINF:-1 tvg-name="关云猖",关云猖
@@ -1307,8 +885,6 @@ https://goodiptv.club/douyu/8820996
 https://goodiptv.club/douyu/9478842
 #EXTINF:-1 tvg-name="内蒙卡秋",内蒙卡秋
 https://goodiptv.club/douyu/9067858
-#EXTINF:-1 tvg-name="内蒙古欢乐驿站",内蒙古欢乐驿站
-https://goodiptv.club/douyu/9365077
 #EXTINF:-1 tvg-name="农村一级野钓大师",农村一级野钓大师
 https://goodiptv.club/douyu/9433591
 #EXTINF:-1 tvg-name="农村幺妹儿",农村幺妹儿
@@ -1337,8 +913,6 @@ https://goodiptv.club/douyu/9489079
 https://goodiptv.club/douyu/12619211
 #EXTINF:-1 tvg-name="利利川",利利川
 https://goodiptv.club/douyu/9329249
-#EXTINF:-1 tvg-name="别闹了美越",别闹了美越
-https://goodiptv.club/douyu/9548244
 #EXTINF:-1 tvg-name="到远方旅行",到远方旅行
 https://goodiptv.club/douyu/9614588
 #EXTINF:-1 tvg-name="制造show",制造show
@@ -1369,12 +943,8 @@ https://goodiptv.club/douyu/3186217
 https://goodiptv.club/douyu/9484187
 #EXTINF:-1 tvg-name="半打星冰乐",半打星冰乐
 https://goodiptv.club/douyu/7481383
-#EXTINF:-1 tvg-name="半藏同学",半藏同学
-https://goodiptv.club/douyu/9372627
 #EXTINF:-1 tvg-name="华白雨",华白雨
 https://goodiptv.club/douyu/9495454
-#EXTINF:-1 tvg-name="单纯的顺才少爷",单纯的顺才少爷
-https://goodiptv.club/douyu/10084875
 #EXTINF:-1 tvg-name="卖女孩滴小姑凉",卖女孩滴小姑凉
 https://goodiptv.club/douyu/922564
 #EXTINF:-1 tvg-name="卖爆鱼的小姑娘",卖爆鱼的小姑娘
@@ -1401,8 +971,6 @@ https://goodiptv.club/douyu/9958943
 https://goodiptv.club/douyu/10078171
 #EXTINF:-1 tvg-name="史君观影",史君观影
 https://goodiptv.club/douyu/9644669
-#EXTINF:-1 tvg-name="叶墨的百妖馆",叶墨的百妖馆
-https://goodiptv.club/douyu/9517351
 #EXTINF:-1 tvg-name="吃草莓的果子狸V",吃草莓的果子狸V
 https://goodiptv.club/douyu/9382395
 #EXTINF:-1 tvg-name="吃鸡小表弟",吃鸡小表弟
@@ -1443,6 +1011,8 @@ https://goodiptv.club/douyu/850030
 https://goodiptv.club/douyu/10082307
 #EXTINF:-1 tvg-name="咸车",咸车
 https://goodiptv.club/douyu/9498554
+#EXTINF:-1 tvg-name="咸鱼翻身是另一面咸鱼",咸鱼翻身是另一面咸鱼
+https://goodiptv.club/douyu/527076
 #EXTINF:-1 tvg-name="哇萨比抓马WD",哇萨比抓马WD
 https://goodiptv.club/douyu/8808506
 #EXTINF:-1 tvg-name="哲忆丶",哲忆丶
@@ -1467,10 +1037,6 @@ https://goodiptv.club/douyu/8657834
 https://goodiptv.club/douyu/8658051
 #EXTINF:-1 tvg-name="在回忆中寻找",在回忆中寻找
 https://goodiptv.club/douyu/12065601
-#EXTINF:-1 tvg-name="培根悖论唠唠嗑",培根悖论唠唠嗑
-https://goodiptv.club/douyu/5354713
-#EXTINF:-1 tvg-name="堇姑娘",堇姑娘
-https://goodiptv.club/douyu/297689
 #EXTINF:-1 tvg-name="壹丨哥",壹丨哥
 https://goodiptv.club/douyu/5692901
 #EXTINF:-1 tvg-name="夏利俊EWE路亚",夏利俊EWE路亚
@@ -1515,20 +1081,12 @@ https://goodiptv.club/douyu/10329300
 https://goodiptv.club/douyu/8792763
 #EXTINF:-1 tvg-name="大蓝雀",大蓝雀
 https://goodiptv.club/douyu/8656759
-#EXTINF:-1 tvg-name="天JIANG",天JIANG
-https://goodiptv.club/douyu/9455480
 #EXTINF:-1 tvg-name="天才大熊猫啊",天才大熊猫啊
 https://goodiptv.club/douyu/10646699
 #EXTINF:-1 tvg-name="天才简史",天才简史
 https://goodiptv.club/douyu/8662915
 #EXTINF:-1 tvg-name="天才霸总的狐崽崽",天才霸总的狐崽崽
 https://goodiptv.club/douyu/10394922
-#EXTINF:-1 tvg-name="奇光主播",奇光主播
-https://goodiptv.club/douyu/8009547
-#EXTINF:-1 tvg-name="奇光主播Blaze",奇光主播Blaze
-https://goodiptv.club/douyu/12817608
-#EXTINF:-1 tvg-name="奇光主播e",奇光主播e
-https://goodiptv.club/douyu/11849873
 #EXTINF:-1 tvg-name="奇光主播q",奇光主播q
 https://goodiptv.club/douyu/12560807
 #EXTINF:-1 tvg-name="奇兮兮悄陌",奇兮兮悄陌
@@ -1579,14 +1137,10 @@ https://goodiptv.club/douyu/9734042
 https://goodiptv.club/douyu/9701497
 #EXTINF:-1 tvg-name="小太V",小太V
 https://goodiptv.club/douyu/9606954
-#EXTINF:-1 tvg-name="小姐姐Bie跑哦",小姐姐Bie跑哦
-https://goodiptv.club/douyu/8666258
 #EXTINF:-1 tvg-name="小姐姐不记得",小姐姐不记得
 https://goodiptv.club/douyu/3700024
 #EXTINF:-1 tvg-name="小小天才搞笑视频",小小天才搞笑视频
 https://goodiptv.club/douyu/9419678
-#EXTINF:-1 tvg-name="小小甜的骑士",小小甜的骑士
-https://goodiptv.club/douyu/9236042
 #EXTINF:-1 tvg-name="小小鹿老师",小小鹿老师
 https://goodiptv.club/douyu/9442889
 #EXTINF:-1 tvg-name="小手枪Newhandgun",小手枪Newhandgun
@@ -1663,8 +1217,6 @@ https://goodiptv.club/douyu/6911044
 https://goodiptv.club/douyu/9546169
 #EXTINF:-1 tvg-name="庆皇龙利余",庆皇龙利余
 https://goodiptv.club/douyu/9524210
-#EXTINF:-1 tvg-name="开心嘴炮",开心嘴炮
-https://goodiptv.club/douyu/9026377
 #EXTINF:-1 tvg-name="开心逛剧场",开心逛剧场
 https://goodiptv.club/douyu/10329310
 #EXTINF:-1 tvg-name="开心麻花经典小品",开心麻花经典小品
@@ -1673,8 +1225,6 @@ https://goodiptv.club/douyu/10153463
 https://goodiptv.club/douyu/10319056
 #EXTINF:-1 tvg-name="开车大神",开车大神
 https://goodiptv.club/douyu/9759970
-#EXTINF:-1 tvg-name="张宇394795",张宇394795
-https://goodiptv.club/douyu/7508566
 #EXTINF:-1 tvg-name="张小莹要独立",张小莹要独立
 https://goodiptv.club/douyu/9647285
 #EXTINF:-1 tvg-name="弹吉他的Miumiu",弹吉他的Miumiu
@@ -1687,12 +1237,8 @@ https://goodiptv.club/douyu/3439096
 https://goodiptv.club/douyu/5875025
 #EXTINF:-1 tvg-name="影子叔V",影子叔V
 https://goodiptv.club/douyu/9446338
-#EXTINF:-1 tvg-name="彼岸心属MADEIN伊藤美优",彼岸心属MADEIN伊藤美优
-https://goodiptv.club/douyu/40471
 #EXTINF:-1 tvg-name="往事vs随风1",往事vs随风1
 https://goodiptv.club/douyu/3113309
-#EXTINF:-1 tvg-name="律子桑",律子桑
-https://goodiptv.club/douyu/9371308
 #EXTINF:-1 tvg-name="徐大sao",徐大sao
 https://goodiptv.club/douyu/7107176
 #EXTINF:-1 tvg-name="御前狼王顾云川",御前狼王顾云川
@@ -1833,10 +1379,6 @@ https://goodiptv.club/douyu/7039598
 https://goodiptv.club/douyu/9415020
 #EXTINF:-1 tvg-name="是忆昔啊",是忆昔啊
 https://goodiptv.club/douyu/9455518
-#EXTINF:-1 tvg-name="是真的林虎LinHu",是真的林虎LinHu
-https://goodiptv.club/douyu/9540113
-#EXTINF:-1 tvg-name="是纯洁上校",是纯洁上校
-https://goodiptv.club/douyu/9666042
 #EXTINF:-1 tvg-name="是脑洞君君君",是脑洞君君君
 https://goodiptv.club/douyu/9360149
 #EXTINF:-1 tvg-name="智仗心",智仗心
@@ -1883,12 +1425,8 @@ https://goodiptv.club/douyu/9729740
 https://goodiptv.club/douyu/9348805
 #EXTINF:-1 tvg-name="果冻lui",果冻lui
 https://goodiptv.club/douyu/9191790
-#EXTINF:-1 tvg-name="果冻萌萌的丶",果冻萌萌的丶
-https://goodiptv.club/douyu/9607934
 #EXTINF:-1 tvg-name="枫泽雨畔",枫泽雨畔
 https://goodiptv.club/douyu/5279518
-#EXTINF:-1 tvg-name="某声悠",某声悠
-https://goodiptv.club/douyu/8896100
 #EXTINF:-1 tvg-name="柠柠柠萌菌",柠柠柠萌菌
 https://goodiptv.club/douyu/9720895
 #EXTINF:-1 tvg-name="柠檬檬檬儿vlog",柠檬檬檬儿vlog
@@ -1913,8 +1451,8 @@ https://goodiptv.club/douyu/6785471
 https://goodiptv.club/douyu/8793544
 #EXTINF:-1 tvg-name="橙记Orange丶",橙记Orange丶
 https://goodiptv.club/douyu/4549169
-#EXTINF:-1 tvg-name="正直的陈易",正直的陈易
-https://goodiptv.club/douyu/9365118
+#EXTINF:-1 tvg-name="正宗吔汁吔树牌",正宗吔汁吔树牌
+https://goodiptv.club/douyu/10217953
 #EXTINF:-1 tvg-name="武侠剧场",武侠剧场
 https://goodiptv.club/douyu/9285904
 #EXTINF:-1 tvg-name="民工小代",民工小代
@@ -1929,8 +1467,6 @@ https://goodiptv.club/douyu/6091425
 https://goodiptv.club/douyu/8795274
 #EXTINF:-1 tvg-name="沂沐啊",沂沐啊
 https://goodiptv.club/douyu/9481137
-#EXTINF:-1 tvg-name="沉郁观影",沉郁观影
-https://goodiptv.club/douyu/9393577
 #EXTINF:-1 tvg-name="没腿毛的哥哥",没腿毛的哥哥
 https://goodiptv.club/douyu/9720447
 #EXTINF:-1 tvg-name="沫子瞪片",沫子瞪片
@@ -1963,8 +1499,6 @@ https://goodiptv.club/douyu/613850
 https://goodiptv.club/douyu/2519745
 #EXTINF:-1 tvg-name="淼漫迷",淼漫迷
 https://goodiptv.club/douyu/9455567
-#EXTINF:-1 tvg-name="渔农泰叔",渔农泰叔
-https://goodiptv.club/douyu/9348784
 #EXTINF:-1 tvg-name="渔戈兄弟赶海",渔戈兄弟赶海
 https://goodiptv.club/douyu/9091847
 #EXTINF:-1 tvg-name="渔村小马",渔村小马
@@ -1985,8 +1519,6 @@ https://goodiptv.club/douyu/8829706
 https://goodiptv.club/douyu/9650246
 #EXTINF:-1 tvg-name="漠漠fumiyo",漠漠fumiyo
 https://goodiptv.club/douyu/8911070
-#EXTINF:-1 tvg-name="漫威君",漫威君
-https://goodiptv.club/douyu/1713615
 #EXTINF:-1 tvg-name="潇湘公子L",潇湘公子L
 https://goodiptv.club/douyu/9535657
 #EXTINF:-1 tvg-name="潜伏sc",潜伏sc
@@ -2035,12 +1567,8 @@ https://goodiptv.club/douyu/10074407
 https://goodiptv.club/douyu/8862501
 #EXTINF:-1 tvg-name="猪肉熟了",猪肉熟了
 https://goodiptv.club/douyu/296836
-#EXTINF:-1 tvg-name="猫总白一航",猫总白一航
-https://goodiptv.club/douyu/9517105
 #EXTINF:-1 tvg-name="猫猫村长",猫猫村长
 https://goodiptv.club/douyu/4716
-#EXTINF:-1 tvg-name="猫记丶",猫记丶
-https://goodiptv.club/douyu/9242659
 #EXTINF:-1 tvg-name="王Li差点红",王Li差点红
 https://goodiptv.club/douyu/9348469
 #EXTINF:-1 tvg-name="王俊凯的资源组",王俊凯的资源组
@@ -2063,8 +1591,6 @@ https://goodiptv.club/douyu/1569773
 https://goodiptv.club/douyu/7335280
 #EXTINF:-1 tvg-name="用户1275665728",用户1275665728
 https://goodiptv.club/douyu/9067836
-#EXTINF:-1 tvg-name="用户2979101",用户2979101
-https://goodiptv.club/douyu/9273031
 #EXTINF:-1 tvg-name="用青春去旅行",用青春去旅行
 https://goodiptv.club/douyu/9629423
 #EXTINF:-1 tvg-name="田园小漠",田园小漠
@@ -2085,8 +1611,6 @@ https://goodiptv.club/douyu/319576
 https://goodiptv.club/douyu/280064
 #EXTINF:-1 tvg-name="白鱼Sakana",白鱼Sakana
 https://goodiptv.club/douyu/9611771
-#EXTINF:-1 tvg-name="百万巨星麒麟君",百万巨星麒麟君
-https://goodiptv.club/douyu/3431701
 #EXTINF:-1 tvg-name="百态人间大赏",百态人间大赏
 https://goodiptv.club/douyu/8724904
 #EXTINF:-1 tvg-name="皮皮游戏时光",皮皮游戏时光
@@ -2145,6 +1669,8 @@ https://goodiptv.club/douyu/7495810
 https://goodiptv.club/douyu/7642724
 #EXTINF:-1 tvg-name="粤男有话儿",粤男有话儿
 https://goodiptv.club/douyu/8764282
+#EXTINF:-1 tvg-name="粤知一二",粤知一二
+https://goodiptv.club/douyu/2940299
 #EXTINF:-1 tvg-name="粽子酱v",粽子酱v
 https://goodiptv.club/douyu/9390685
 #EXTINF:-1 tvg-name="繁星之所在",繁星之所在
@@ -2161,16 +1687,14 @@ https://goodiptv.club/douyu/9506782
 https://goodiptv.club/douyu/9412138
 #EXTINF:-1 tvg-name="维塔利在野外",维塔利在野外
 https://goodiptv.club/douyu/9804068
-#EXTINF:-1 tvg-name="绿阿掌",绿阿掌
-https://goodiptv.club/douyu/2365
 #EXTINF:-1 tvg-name="罐装老K",罐装老K
 https://goodiptv.club/douyu/9566210
 #EXTINF:-1 tvg-name="网友咸几几",网友咸几几
 https://goodiptv.club/douyu/2174405
-#EXTINF:-1 tvg-name="网神影厅",网神影厅
-https://goodiptv.club/douyu/508118
 #EXTINF:-1 tvg-name="罗休休休",罗休休休
 https://goodiptv.club/douyu/9403178
+#EXTINF:-1 tvg-name="罗先生699",罗先生699
+https://goodiptv.club/douyu/12065805
 #EXTINF:-1 tvg-name="羊小川",羊小川
 https://goodiptv.club/douyu/11081842
 #EXTINF:-1 tvg-name="美人而已",美人而已
@@ -2181,8 +1705,6 @@ https://goodiptv.club/douyu/9533226
 https://goodiptv.club/douyu/9193179
 #EXTINF:-1 tvg-name="翦瞳秋",翦瞳秋
 https://goodiptv.club/douyu/9623057
-#EXTINF:-1 tvg-name="老人家小熊猫君",老人家小熊猫君
-https://goodiptv.club/douyu/753342
 #EXTINF:-1 tvg-name="老段带你钓青鱼",老段带你钓青鱼
 https://goodiptv.club/douyu/10105639
 #EXTINF:-1 tvg-name="老烟斗鬼故事",老烟斗鬼故事
@@ -2199,14 +1721,10 @@ https://goodiptv.club/douyu/1557288
 https://goodiptv.club/douyu/4105989
 #EXTINF:-1 tvg-name="肥宅小草",肥宅小草
 https://goodiptv.club/douyu/8887438
-#EXTINF:-1 tvg-name="育碧先生v",育碧先生v
-https://goodiptv.club/douyu/9505962
 #EXTINF:-1 tvg-name="胆子不小的郑吉祥",胆子不小的郑吉祥
 https://goodiptv.club/douyu/9171887
 #EXTINF:-1 tvg-name="胖段段fre",胖段段fre
 https://goodiptv.club/douyu/9662856
-#EXTINF:-1 tvg-name="胡椒粉的胡歌",胡椒粉的胡歌
-https://goodiptv.club/douyu/5448413
 #EXTINF:-1 tvg-name="胥渡吧直播号",胥渡吧直播号
 https://goodiptv.club/douyu/2040822
 #EXTINF:-1 tvg-name="脑袋大1937",脑袋大1937
@@ -2229,8 +1747,6 @@ https://goodiptv.club/douyu/9174097
 https://goodiptv.club/douyu/2793084
 #EXTINF:-1 tvg-name="苹果Zei甜",苹果Zei甜
 https://goodiptv.club/douyu/1174353
-#EXTINF:-1 tvg-name="茶啊二中官方",茶啊二中官方
-https://goodiptv.club/douyu/2925610
 #EXTINF:-1 tvg-name="草帽丶海贼团",草帽丶海贼团
 https://goodiptv.club/douyu/997925
 #EXTINF:-1 tvg-name="草泥泥影院",草泥泥影院
@@ -2251,8 +1767,6 @@ https://goodiptv.club/douyu/10675329
 https://goodiptv.club/douyu/10234334
 #EXTINF:-1 tvg-name="莫扎金",莫扎金
 https://goodiptv.club/douyu/9272077
-#EXTINF:-1 tvg-name="菠萝屋的海绵宝宝",菠萝屋的海绵宝宝
-https://goodiptv.club/douyu/3949681
 #EXTINF:-1 tvg-name="萌宠妙妙屋",萌宠妙妙屋
 https://goodiptv.club/douyu/8653533
 #EXTINF:-1 tvg-name="萌小鬼",萌小鬼
@@ -2269,8 +1783,6 @@ https://goodiptv.club/douyu/9572351
 https://goodiptv.club/douyu/9431727
 #EXTINF:-1 tvg-name="蓝格雷",蓝格雷
 https://goodiptv.club/douyu/5124602
-#EXTINF:-1 tvg-name="蓝翔老三国",蓝翔老三国
-https://goodiptv.club/douyu/7459925
 #EXTINF:-1 tvg-name="蔡恩雨Priscilla",蔡恩雨Priscilla
 https://goodiptv.club/douyu/9662853
 #EXTINF:-1 tvg-name="蔡老板家的长工丶",蔡老板家的长工丶
@@ -2279,8 +1791,6 @@ https://goodiptv.club/douyu/8869614
 https://goodiptv.club/douyu/11878141
 #EXTINF:-1 tvg-name="虾米大模王",虾米大模王
 https://goodiptv.club/douyu/102114
-#EXTINF:-1 tvg-name="血小板呐呐",血小板呐呐
-https://goodiptv.club/douyu/4285043
 #EXTINF:-1 tvg-name="血腥丶妖瞳",血腥丶妖瞳
 https://goodiptv.club/douyu/4231787
 #EXTINF:-1 tvg-name="要不要请你吃元宝蜡烛",要不要请你吃元宝蜡烛
@@ -2315,18 +1825,12 @@ https://goodiptv.club/douyu/9348766
 https://goodiptv.club/douyu/8849047
 #EXTINF:-1 tvg-name="超wu的大白兔",超wu的大白兔
 https://goodiptv.club/douyu/2925299
-#EXTINF:-1 tvg-name="趣评测李杰灵",趣评测李杰灵
-https://goodiptv.club/douyu/751316
 #EXTINF:-1 tvg-name="跟着盟哥去探秘",跟着盟哥去探秘
 https://goodiptv.club/douyu/1178229
 #EXTINF:-1 tvg-name="车模颜值大赏",车模颜值大赏
 https://goodiptv.club/douyu/10118209
-#EXTINF:-1 tvg-name="轩邈Elias",轩邈Elias
-https://goodiptv.club/douyu/9412454
 #EXTINF:-1 tvg-name="轻风乍起的号",轻风乍起的号
 https://goodiptv.club/douyu/9445489
-#EXTINF:-1 tvg-name="过往1908",过往1908
-https://goodiptv.club/douyu/8721095
 #EXTINF:-1 tvg-name="迷剧阿菁",迷剧阿菁
 https://goodiptv.club/douyu/9486024
 #EXTINF:-1 tvg-name="迷影至下Filmlast",迷影至下Filmlast
@@ -2345,8 +1849,6 @@ https://goodiptv.club/douyu/8694831
 https://goodiptv.club/douyu/610972
 #EXTINF:-1 tvg-name="鄂东老男孩",鄂东老男孩
 https://goodiptv.club/douyu/8837707
-#EXTINF:-1 tvg-name="酉晨君",酉晨君
-https://goodiptv.club/douyu/9484541
 #EXTINF:-1 tvg-name="酋知鱼",酋知鱼
 https://goodiptv.club/douyu/5408225
 #EXTINF:-1 tvg-name="酒痴东梦a",酒痴东梦a
@@ -2355,8 +1857,8 @@ https://goodiptv.club/douyu/9477805
 https://goodiptv.club/douyu/1286383
 #EXTINF:-1 tvg-name="醉我天涯zwty",醉我天涯zwty
 https://goodiptv.club/douyu/9479775
-#EXTINF:-1 tvg-name="野灿baka",野灿baka
-https://goodiptv.club/douyu/8867233
+#EXTINF:-1 tvg-name="野生岛民",野生岛民
+https://goodiptv.club/douyu/10217843
 #EXTINF:-1 tvg-name="野行涛哥V",野行涛哥V
 https://goodiptv.club/douyu/9329608
 #EXTINF:-1 tvg-name="金枪娱",金枪娱
@@ -2375,8 +1877,6 @@ https://goodiptv.club/douyu/8912325
 https://goodiptv.club/douyu/9450942
 #EXTINF:-1 tvg-name="铁头钢脚",铁头钢脚
 https://goodiptv.club/douyu/9322081
-#EXTINF:-1 tvg-name="铁牛杰哥",铁牛杰哥
-https://goodiptv.club/douyu/8815425
 #EXTINF:-1 tvg-name="铁甲影院",铁甲影院
 https://goodiptv.club/douyu/1274132
 #EXTINF:-1 tvg-name="锅盖哒",锅盖哒
@@ -2397,8 +1897,6 @@ https://goodiptv.club/douyu/9407329
 https://goodiptv.club/douyu/8662812
 #EXTINF:-1 tvg-name="阿忙赶海",阿忙赶海
 https://goodiptv.club/douyu/9348876
-#EXTINF:-1 tvg-name="阿福ThomasV",阿福ThomasV
-https://goodiptv.club/douyu/9194089
 #EXTINF:-1 tvg-name="阿魁方言配音",阿魁方言配音
 https://goodiptv.club/douyu/9442903
 #EXTINF:-1 tvg-name="陈瀚Siri",陈瀚Siri
@@ -2425,8 +1923,6 @@ https://goodiptv.club/douyu/9970047
 https://goodiptv.club/douyu/9663665
 #EXTINF:-1 tvg-name="马小跳在这儿",马小跳在这儿
 https://goodiptv.club/douyu/9722147
-#EXTINF:-1 tvg-name="马老师是马也Sama",马老师是马也Sama
-https://goodiptv.club/douyu/8821892
 #EXTINF:-1 tvg-name="高攀了这人间1",高攀了这人间1
 https://goodiptv.club/douyu/9651506
 #EXTINF:-1 tvg-name="高能恐怖片段君",高能恐怖片段君
@@ -2465,8 +1961,6 @@ https://goodiptv.club/douyu/9477915
 https://goodiptv.club/douyu/9437298
 #EXTINF:-1 tvg-name="龙组队长天昊",龙组队长天昊
 https://goodiptv.club/douyu/1487654
-#EXTINF:-1 tvg-name="龙视开心麻花街",龙视开心麻花街
-https://goodiptv.club/douyu/9374862
 #EXTINF:-1 tvg-name="龙视本山快乐营",龙视本山快乐营
 https://goodiptv.club/douyu/9374865
 #EXTINF:-1 tvg-name="龙视欢乐英雄转",龙视欢乐英雄转
@@ -3071,6 +2565,10 @@ http://ls.qingting.fm/live/1650.m3u8
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-name="河北都市",河北都市
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
+#EXTINF:-1 tvg-name="河源公共",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-name="河源综合",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="泌阳新闻综合",泌阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 #EXTINF:-1 tvg-name="泌阳新闻综合",泌阳新闻综合
@@ -3101,18 +2599,12 @@ http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江公共新闻",浙江公共新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江国际",浙江国际
 http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江国际",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
-#EXTINF:-1 tvg-name="浙江国际",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教育",浙江教育
@@ -3125,26 +2617,16 @@ http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江新闻",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 tvg-name="浙江新闻",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
-#EXTINF:-1 tvg-name="浙江新闻",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:-1 tvg-name="浙江民生",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-name="浙江民生",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生",浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江民生休闲",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲",浙江民生休闲
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲",浙江民生休闲
 http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲",浙江民生休闲
-http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 tvg-name="浙江生活",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 tvg-name="浙江留学",浙江留学
@@ -3153,18 +2635,12 @@ http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 #EXTINF:-1 tvg-name="浙江经济",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江经济生活",浙江经济生活
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活",浙江经济生活
 http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活",浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活",浙江经济生活
-http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-name="浙江经视",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经视",浙江经视
@@ -3179,8 +2655,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江钱江频道",浙江钱江频道
-http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 tvg-name="海南新闻",海南新闻
 http://ls.qingting.fm/live/1861.m3u8
 #EXTINF:-1 tvg-name="海宁新闻综合",海宁新闻综合
@@ -3257,8 +2731,6 @@ http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 #EXTINF:-1 tvg-name="烟台新闻综合",烟台新闻综合
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-#EXTINF:-1 tvg-name="烟台经济科技",烟台经济科技
-http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 #EXTINF:-1 tvg-name="玛纳斯综合",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 #EXTINF:-1 tvg-name="环球旅游",环球旅游
@@ -3384,9 +2856,9 @@ http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="象山新闻综合",象山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 tvg-name="象山综合",象山综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="象山综合",象山综合
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#EXTINF:-1 tvg-name="象山综合",象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="赣州公共",赣州公共
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 #EXTINF:-1 tvg-name="赣州新闻",赣州新闻
@@ -3647,8 +3119,6 @@ https://goodiptv.club/douyu/8841881
 https://goodiptv.club/douyu/8833450
 #EXTINF:-1 tvg-name="yaoyao说",yaoyao说
 https://goodiptv.club/douyu/884073
-#EXTINF:-1 tvg-name="一朵老香菇解说",一朵老香菇解说
-https://goodiptv.club/douyu/10050914
 #EXTINF:-1 tvg-name="丽姐说电影",丽姐说电影
 https://goodiptv.club/douyu/9437283
 #EXTINF:-1 tvg-name="九叔说电影v",九叔说电影v
@@ -3687,8 +3157,6 @@ https://goodiptv.club/douyu/9064711
 https://goodiptv.club/douyu/9561992
 #EXTINF:-1 tvg-name="可乐撩电影",可乐撩电影
 https://goodiptv.club/douyu/9371552
-#EXTINF:-1 tvg-name="史君说剧",史君说剧
-https://goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-name="听wo姐说",听wo姐说
 https://goodiptv.club/douyu/8830082
 #EXTINF:-1 tvg-name="周墨看电影",周墨看电影
@@ -3739,14 +3207,10 @@ https://goodiptv.club/douyu/10011547
 https://goodiptv.club/douyu/3432645
 #EXTINF:-1 tvg-name="小马哥说电影",小马哥说电影
 https://goodiptv.club/douyu/9396672
-#EXTINF:-1 tvg-name="少年看电影",少年看电影
-https://goodiptv.club/douyu/8762120
 #EXTINF:-1 tvg-name="崽崽撩电影",崽崽撩电影
 https://goodiptv.club/douyu/8325511
 #EXTINF:-1 tvg-name="已知艺术家漫画解说",已知艺术家漫画解说
 https://goodiptv.club/douyu/5907076
-#EXTINF:-1 tvg-name="幕撩电影",幕撩电影
-https://goodiptv.club/douyu/9486015
 #EXTINF:-1 tvg-name="强人说笑",强人说笑
 https://goodiptv.club/douyu/10329713
 #EXTINF:-1 tvg-name="微笑影视解说",微笑影视解说
@@ -3797,10 +3261,6 @@ https://goodiptv.club/douyu/9559158
 https://goodiptv.club/douyu/1690081
 #EXTINF:-1 tvg-name="灵佑奇谈",灵佑奇谈
 https://goodiptv.club/douyu/9678207
-#EXTINF:-1 tvg-name="热影连连看",热影连连看
-https://goodiptv.club/douyu/9388931
-#EXTINF:-1 tvg-name="爱看剧的家Fat喵",爱看剧的家Fat喵
-https://goodiptv.club/douyu/65943
 #EXTINF:-1 tvg-name="爱讲神话的小志",爱讲神话的小志
 https://goodiptv.club/douyu/9495613
 #EXTINF:-1 tvg-name="牛叔说电影",牛叔说电影
@@ -3833,8 +3293,6 @@ https://goodiptv.club/douyu/9370168
 https://goodiptv.club/douyu/9443552
 #EXTINF:-1 tvg-name="秀才侃娱乐",秀才侃娱乐
 https://goodiptv.club/douyu/9382873
-#EXTINF:-1 tvg-name="秦看番",秦看番
-https://goodiptv.club/douyu/9542832
 #EXTINF:-1 tvg-name="童乐说电影",童乐说电影
 https://goodiptv.club/douyu/9660704
 #EXTINF:-1 tvg-name="精彩短剧看不停",精彩短剧看不停
@@ -3889,14 +3347,10 @@ https://goodiptv.club/douyu/8799435
 https://goodiptv.club/douyu/532050
 #EXTINF:-1 tvg-name="阿松撩剧",阿松撩剧
 https://goodiptv.club/douyu/8880843
-#EXTINF:-1 tvg-name="飞碟说官方",飞碟说官方
-https://goodiptv.club/douyu/1449125
 #EXTINF:-1 tvg-name="飞行员欧文讲故事",飞行员欧文讲故事
 https://goodiptv.club/douyu/9678790
 #EXTINF:-1 tvg-name="鬼兄奇谈",鬼兄奇谈
 https://goodiptv.club/douyu/8722254
-#EXTINF:-1 tvg-name="鲨说电影",鲨说电影
-https://goodiptv.club/douyu/9544628
 #EXTINF:-1 tvg-name="鸡哥聊电影",鸡哥聊电影
 https://goodiptv.club/douyu/5067952
 #EXTINF:-1 tvg-name="鹏友说电影",鹏友说电影
@@ -4097,5 +3551,5 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-name="黄龙",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-name="2026-04-04 06:26:00",2026-04-04 06:26:00
+#EXTINF:-1 tvg-name="2026-04-04 12:18:26",2026-04-04 12:18:26
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4

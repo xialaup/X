@@ -247,24 +247,7 @@
 
 {"name": "🦄┃NSA自建「直播tv」","type":0,"url":"https://timetv.junchao.qzz.io","playerType":1},
 {"name": "🪲┃NSA自建「直播tv」","type":0,"url":"http://192.168.110.32:19890/trams.m3u?token=abc123","playerType":1},
-{
-    "name": "台湾综合.蕉哥",
-    "type": 0,
-    "url": "https://tv.iill.top/m3u/Gather",
-    "ua": "okhttp/3.15",
-    "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-   },
 
-   {
-    "name": "香港综合.蕉哥",
-    "type": 0,
-    "url": "https://tv.iill.top/m3u/MyTV",
-    "ua": "OKhttp/1.31",
-    "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-   }, 
-	
 ##酷九live直播
 {"name": "🔫️┃松鼠「直播」","type": 0,"ua": "okhttp","url": "https://d.kstore.dev/download/15114/iptv.txt"},
 {"name": "🔫️┃壹米「直播」","type": 0,"url": "https://gitee.com/yimi321/tv/raw/master/tv.png","ua": "okhttp/3.15,AptvPlayer/1.4.0","timeout": 5,"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo": "https://live.fanmingming.cn/tv/{name}.png"},
@@ -355,9 +338,9 @@
 
 {"name": "🚤️️┃Wirili「直播」","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt","header": {"User-Agent": ""}},
 {"name": "🥋┃中国IPTV直播","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/myMIGU/refs/heads/main/migu.m3u","playerType":1},
-{"name": "📷┃Gather「直播」","url": "https://tv.iill.top/m3u/Gather","header": {"User-Agent": ""}},
-{"name": "📸┃MyTV「直播」","url": "https://tv.iill.top/m3u/MyTV","header": {"User-Agent": ""}},
-{"name": "🏰️️┃网络「直播show」","type": 0,"url": "https://itv.aptv.app/china-iptv/zgyd.m","playerType":1},
+{"name": "📷┃Gather「直播」","url": "https://tv.iill.top/m3u/Gather","header": {"User-Agent": "Goiptv/8.8.8"}},
+{"name": "📸┃MyTV「直播」","url": "https://tv.iill.top/m3u/MyTV","header": {"User-Agent": "Goiptv/8.8.8"}},
+//{"name": "🏰️️┃网络「直播show」","type": 0,"url": "https://itv.aptv.app/china-iptv/zgyd.m","playerType":1},
 {"name": "🍏️┃范明明「直播V6」","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
 	
 ##自家系列直播

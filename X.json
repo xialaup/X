@@ -4,7 +4,7 @@
 
   "sites": [
     {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"filterable":1,"changeable":1,"ext": {"sp": "Wogg"}, "timeout":30},
-    {"key":"Wogg","name":"🎩哥哥┃PG","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG","jar":"./pg.jar"},
+    //{"key":"Wogg","name":"🎩哥哥┃PG","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG","jar":"./pg.jar"},
     {"key":"立播版","name":"🌟立播┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"filterable":1,"changeable":1, "ext": {"sp": "Libvio"}, "timeout": 30},
     {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "ext": {"sp": "Labi"}, "timeout": 25},
     {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "ext": {"sp": "Muou"}, "timeout": 25},
@@ -15,7 +15,7 @@
     {"key":"SeedHub","name":"🍀种子┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "ext": {"sp": "SeedHub"}, "timeout": 25},
 
     {"key":"配置中心","name":"👨‍🍳┃‍配置┃中心","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}, "ext": {"sp": "Config"}},
-    {"key": "网盘","name": "🐧┃PG网盘┃配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"./pg.jar","style": {"type": "rect","ratio": 1.5}},
+    //{"key": "网盘","name": "🐧┃PG网盘┃配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"./pg.jar","style": {"type": "rect","ratio": 1.5}},
 
     {"key":"剧透","name": "🥷┃剧透社┃影视","type": 3,"api": "./py/剧透社.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
     {"key":"剧透ai","name": "🦸┃剧透社┃影视","type": 3,"api": "./py/剧透社ai.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},

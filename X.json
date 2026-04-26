@@ -202,7 +202,7 @@
 {"name": "🚣🏻┃全国地区「直播」","type": 0,"url": "https://iboxfree.neocities.org/555.txt","playerType":1},
 
 ##NAS部署直播
-{"name": "🐍┃serv00「直播」","type": 0,"ua": "okhttp","url": "https://alantang.serv00.net/m3u/tv.m3u"},
+{"name": "🐍┃serv00「直播」","type": 0,"ua": "okhttp","url": "https://alantang.serv00.net/m3u/jtv.m3u"},
 {"name": "🥷┃JunTV「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.junchao.qzz.io"},
 {"name": "🥷┃mitv「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.tangtang.us.ci"},
 {"name": "🥷┃广东gdty「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.alantangtang.de5.net"},

@@ -62,7 +62,7 @@
 {"key":"BpanSo","name":"🐞盘他┃嘟嘟","type":3,"api":"csp_BpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 
-{"key" "you","name":"🐰┃Youtube","type":3,"api":"./py/youtubelive.py","quickSearch":1,"changeable":0,"filterable":1},
+{"key":"youtube","name": "🐼️┃Youtube","type": 3,"api": "./py/youtubelive.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 	
 {"key":"Bili","name":"🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
 {"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"}},

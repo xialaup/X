@@ -54,6 +54,8 @@ https://tools.v1.mk
 
 http://www.饭太硬.cc/tv
 
+http://摸鱼儿.cc
+
 https://9280.kstore.vip/newwex.json 王二小放牛娃
 
 https://肥猫.com
